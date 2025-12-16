@@ -42,3 +42,7 @@ div {
   font-size: 0.9em;
   margin-top: 5px;
 }
+.taskPriority {
+  margin-top: 8px;
+  font-weight: bold;
+}
