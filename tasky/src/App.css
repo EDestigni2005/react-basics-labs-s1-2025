@@ -98,3 +98,13 @@ form {
   width: 50%;
   margin: auto;
 }
+
+.taskPriority {
+  margin-top: 20px;
+  padding: 10px 0;
+  border-radius: 10px;
+  text-align: center;
+  font-weight: bold;
+  color: white;
+}
+
